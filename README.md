@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale1.0, minimum-scale=1.0">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
-<body>
+<body background="uwu.jpg">
      <!-- NAVBAR-->
 	<nav class="navbar navbar-expand-md navbar-dark bg-dark">
   <div class="container-fluid">
@@ -84,126 +84,54 @@
 
 <!--SECTION UNO-->
 <section class="container my-5">
-	<H2 class="display-4 text-center">BOKU NO HERO ACADEMIA</H2>
-	<p class="lead my-4">My Hero Academia (僕のヒーローアカデミア Boku no Hīrō Akademia ?) es una serie de anime producida por el estudio BONES, basada en el manga del mismo nombre, escrito e ilustrado por Kohei Horikoshi. Fue anunciado en la edición 49 de la revista Weekly Shonen Jump en 2015. En marzo de 2016, Funimation anunció que había licenciado la serie para América, mientras que en España la serie fue licenciada por Selecta Visión.</p>
-	<H2 class="display-4 text-center">Personajes</H2>
+	<H2 class="display-4 text-center">kimetsu no yaiba</H2>
+	<p class="lead my-4">Kimetsu no Yaiba (鬼滅の刃? lit. «espada mata-demonios»), también conocida bajo su nombre en inglés Demon Slayer y como Guardianes de la noche en España, es una serie de manga escrita e ilustrada por Koyoharu Gotōge, cuya publicación comenzó el 15 de febrero de 2016 en la revista semanal Shūkan Shōnen Jump de la editorial Shūeisha. Una adaptación a serie de anime producida por el estudio Ufotable fue estrenada el 6 de abril de 2019 y finalizó el 28 de septiembre de ese mismo año. La continuación de la historia fue adaptada en formato de película y se llamó Kimetsu no Yaiba: Mugen Ressha-hen, se estrenó el 16 de octubre de 2020 en Japón, convirtiéndose en la película más taquillera en la historia de dicho país. Una segunda temporada del anime y continuación de la película está confirmada para el mes de julio de 2021.
+
+Hasta febrero de 2021, el manga ya contaba con 23 volúmenes publicados y con 150 millones de copias en circulación, incluidos copias digitales, convirtiéndolo en una de las series de manga más vendidas de la historia.</p>
+
+
+  <H2 class="display-4 text-center">Argumento</H2>
+
+
+<section class="container my-5">
+  <H2 class="display-4 text-center">kimetsu no yaiba</H2>
+  <p class="lead my-4">Ambientada en la era Taisho, la historia se centra en Tanjirō Kamado, un joven inteligente y de buen corazón que vive con su familia en las montañas. Se ha convertido en la única fuente de ingresos de su familia tras el fallecimiento de su padre, haciendo viajes al pueblo cercano para vender carbón y vegetales. Todo cambia cuando, tras uno de estos viajes, regresa a casa solo para descubrir que su familia ha sido atacada y asesinada por un demonio. Tanjirō y su hermana Nezuko son los únicos supervivientes del incidente, con Nezuko transformada en un demonio, pero todavía mostrando signos de emoción y pensamiento humanos. Después de un encuentro con Giyū Tomioka, un asesino de demonios, Tanjirō es reclutado por este y enviado para que Sakonji Urokodaki, otro miembro del Cuerpo de Asesinos de Demonios, le enseñe a convertirse también en un asesino de demonios, y comienza su búsqueda para ayudar a su hermana a convertirse nuevamente en humana y vengar la muerte del resto de su familia.</p>
+	<H2 class="display-4 text-center">Personajes principales</H2>
 	<!--CARD-->
 	<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
-      <img src="imagenes2/deku.jpg" class="card-img-top" alt="...">
+      <img src="imagenes2/1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Izuku Midoriya</h5>
-        <p class="card-text">Izuku Midoriya también conocido como Deku, es un estudiante de la Clase 1-A de la Academia U.A. Es el protagonista principal de la serie.
-        Aunque originalmente nació sin un Don, logra captar la atención del legendario héroe All Might y desde entonces se ha convertido en su alumno cercano y estudiante en la Academia U.A., convirtiéndolo en el noveno usuario del Don One For All.</p>
+        <h5 class="card-title">Tanjiro Kamado</h5>
+        <p class="card-text">Tanjiro Kamado (竈門かまど 炭たん治じ郎ろう, Kamado Tanjirō?) es el protagonista principal de Kimetsu no Yaiba. Es un cazador de Demonios cuyo principal objetivo es encontrar al responsable de haber matado a su familia y convertido a su hermana Nezuko en un Demonio.</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted">Deku</small>
+        <small class="text-muted">Tanjiro</small>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="imagenes2/bakugou.jpg" class="card-img-top" alt="...">
+      <img src="imagenes2/2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Katsuki Bakugou</h5>
-        <p class="card-text">Katsuki Bakugou, también conocido como Kacchan por sus amigos, y por su nombre de héroe Dynamight, es un estudiante de la Clase 1-A de la Academia U.A., que está entrenando para convertirse en un Héroe. Es el deuteragonista de la serie y amigo de la infancia convertido en rival de Izuku Midoriya.</p>
+        <h5 class="card-title">Nezuko Kamado</h5>
+        <p class="card-text">Nezuko Kamado (竈門かまど禰ね豆ず子こ, Kamado Nezuko?) es la hermana menor de Tanjiro. Ella fue transformada en Demonio por Muzan Kibutsuji acompañando a Tanjiro en su viaje para volver a ser humana. Es una de las protagonistas principales de Kimetsu no Yaiba. Después de consumir la droga experimental de Tamayo, Nezuko recuperó su humanidad.</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted">Kacchan</small>
+        <small class="text-muted">Nezuko-Chan</small>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="imagenes2/todoroki.jpg" class="card-img-top" alt="...">
+      <img src="imagenes2/3.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Shoto Todoroki</h5>
-        <p class="card-text">Shoto Todoroki es un estudiante de la Clase 1-A de la Academia U.A, donde ingresó a través de recomendaciones oficiales y está entrenando para convertirse en un Héroe. Es el hijo más joven de Endeavor, el héroe número 1; y Rei Todoroki, es uno de los principales protagonistas de la serie.</p>
+        <h5 class="card-title">Zenitsu Agatsuma</h5>
+        <p class="card-text">Zenitsu Agatsuma (我あが妻つま善ぜん逸いつ, Agatsuma Zen'itsu?) es un Cazador de Demonios y un compañero de viaje de Tanjiro Kamado. A su vez es uno de los personajes principales de Kimetsu no Yaiba.</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted">Todoroki</small>
-      </div>
-    </div>
-  </div>
-</div>
-<!--CARD-->
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card h-100">
-      <img src="imagenes2/momo.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Momo Yaoyorozu</h5>
-        <p class="card-text">Momo Yaoyorozu, también conocida como Heroína para todo: Creati, es una estudiante y la vicepresidenta de la Clase 1-A de la Academia U.A. donde ingresó a través de recomendaciones oficiales y está entrenando para convertirse en un Héroe.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">Yaoyorozu</small>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="imagenes2/uraraka.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Ochako Uraraka</h5>
-        <p class="card-text">Ochaco Uraraka, también conocida como Uravity, es una estudiante de la Clase 1-A de la Academia U.A. que está entrenando para convertirse en un Heroína profesional. Es una de los protagonistas de la serie.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">Ochako</small>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="imagenes2/mina.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Mina Ashido	</h5>
-        <p class="card-text">Mina Ashido también conocida como Pinky, es una estudiante de la Clase 1-A de la Academia U.A. Esta entrenando para convertirse en una Heroína.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">Mina</small>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card h-100">
-      <img src="imagenes2/kirishima.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Eijiro Kirishima</h5>
-        <p class="card-text">Eijiro Kirishima, también conocido como Héroe resistente: Red Riot, es un estudiante de la Clase 1-A de la Academia U.A., el cual está entrenando para convertirse en un héroe profesional.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">Kirishima</small>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="imagenes2/kaminari.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Denki Kaminari</h5>
-        <p class="card-text">Denki Kaminari, también conocido como Stun Gun Hero: Chargebolt, es un estudiante de la Clase 1-A de la Academia U.A. que está entrenando para convertirse en un héroe profesional.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">Kaminari</small>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="imagenes2/jiro.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Kyoka Jiro</h5>
-        <p class="card-text">Kyoka Jiro también conocida como Heroína auditiva: Earphone Jack, es una estudiante de la Clase 1-A de la Academia U.A. Esta entrenando para convertirse en una Heroína.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">Jiro</small>
-      </div>
-    </div>
-  </div>
+        <small class="text-muted">Zenitsu</small>
 </div><!--CARD-->
 
 
@@ -221,44 +149,57 @@
 </div><!-- Jumbotron -->
 <!-- SECTION2 -->
 <section class="container">
-	<H2 class="display-4 text-center">BOKU NO HERO ACADEMIA</H2>
-	<p class="lead my-4">My Hero Academia (僕のヒーローアカデミア Boku no Hīrō Akademia ?) es una serie de anime producida por el estudio BONES, basada en el manga del mismo nombre, escrito e ilustrado por Kohei Horikoshi. Fue anunciado en la edición 49 de la revista Weekly Shonen Jump en 2015. En marzo de 2016, Funimation anunció que había licenciado la serie para América, mientras que en España la serie fue licenciada por Selecta Visión.</p>
+	<H2 class="display-4 text-center">Terminología</H2>
+	<p class="lead my-4">Demonios (鬼 Oni?)
+Los demonios son criaturas malvadas que se alimentan de carne y sangre humana. Muzan Kibutsuji sería el primer demonio y, con su sangre, puede convertir a los humanos en demonios. Pueden cambiar la estructura de su cuerpo a voluntad, curar sus heridas rápidamente y poseen fuerza y agilidad sobrehumana. Solo se pueden matar al exponerlos a la luz del sol o si se decapitan con una espada Nichirinto.
+
+12 Lunas (十二鬼月 Jūni kizuki?)
+Son los doce demonios más poderosos bajo el mando de Muzan Kibutsuji. Se dividen en dos grupos, lunas superiores y lunas inferiores, cuyo nivel y número está marcado en sus ojos.
+
+Asesinos de demonios (鬼殺隊 Ki-satsutai?)
+Un término que designa tanto a la organización, cuya misión es proteger a la humanidad de los demonios, así como a los guerreros que la componen. Ha existido durante mucho tiempo.
+
+Pilares (柱 Hashira?)
+Son los nueve espadachines más poderosos entre los cazadores de demonios. Estos son: Giyū Tomioka (pilar de agua), Shinobu Kōchō (pilar del insecto), Kyōjurō Rengoku (pilar de la llama), Mitsuri Kanrōji (pilar del amor), Obanai Iguro (pilar serpiente), Sanemi Shinazugawa (pilar del viento), Gyōmei Himejima (pilar de la roca), Tengen Uzui (pilar del sonido) y Muichirō Tokito (pilar de la niebla).</p>
 <div class="row">
 	<div class="col-md-6">
 <!--ACORDION -->
 <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Accordion Item #1
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">#1
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>Shūeisha anunció el lanzamiento el 20 de agosto de 2016 en la revista Shūkan Shōnen Jump de un spin-off de la obra original llamado My Hero Academia:Vigilantes-. El autor fue Hideyuki Furuhashi, mientras que Betten Court estuvo a cargo de los dibujos. La historia trata sobre héroes ilegales a los que se llama "Vigilantes".8​ A partir de la edición del 17 de diciembre del mismo año las publicaciones pasaron a la aplicación Shōnen Jump+.9​
+        <strong>Escrito e ilustrado por Koyoharu Gotōge.
+
+Kimetsu no Yaiba comenzó su serialización en la edición #11 del 2016 del semanario Shōnen Jump de Shūeisha el 15 de febrero de 2016.7​ Se publicó una historia paralela para el manga en el primer número de Shonen Jump GIGA el 20 de julio de 2016.8​ Shūeisha comenzó a lanzar simultáneamente la serie en español en el servicio Manga Plus en enero de 2019.
+
+Finalizó el 15 de mayo de 2020 con la publicación del capítulo 205 en la revista semanal Shōnen Jump de Shūeisha. En formato volumen, a fecha de octubre de 2020, se publicaron un total de 22 volúmenes y 205 capítulos en Japón. Los capítulos restantes está previsto que se publiquen en dos volúmenes adicionales (hasta formar un total de 23 tomos) en octubre y diciembre de 2020.
+
+Norma Editorial publicó el primer volumen en español para España el 8 de marzo de 2019,9​ mientras que la editorial Ivrea lanzó el primer tomo para Argentina el 6 de diciembre de 2019.10​ En México, Panini Manga empezará la publicación del manga en marzo de 2020.
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        Accordion Item #2
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">#2
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>TMy Hero Academia (僕のヒーローアカデミア Boku no Hīrō Akademia?) es una serie de manga escrita e ilustrada por Kōhei Horikoshi. Se basa en un one-shot realizado por el mismo autor y publicado en el quinto volumen del manga Ōmagadoki Dōbutsuen bajo el nombre de My Hero.1​2​ El 11 de enero de 2015, fue lanzado un VOMIC basado en el manga.3​
+        <strong>La adaptación a serie de anime por el estudio Ufotable fue anunciada en el número 27 de la revista Weekly Shōnen Jump el 4 de junio de 2018.48​ La serie se emitió del 6 de abril al 28 de septiembre de 2019 en Tokyo MX, GTV, GYT, BS11 y otros canales.49​50​ El anime fue dirigido por Haruo Sotozaki, con guiones del personal de Ufotable, música de Yuki Kajiura y Go Shiina, y diseño de personajes de Akira Matsushima. El tema de apertura es «Gurenge» (紅蓮華?) de LiSA,51​ mientras que el tema de cierre es «from the edge» (フロム・ジ・エッジ Furomu ji ejji?) de FictionJunction y LiSA.52​ El ending para el episodio 19 es «Kamado Tanjirō no Uta» (竈門炭治郎のうた?) de Go Shiina con Nami Nakagawa. Fue emitido en streaming por Crunchyroll, Hulu y FunimationNow.53​ AnimeLab transmitió simultáneamente la serie en Australia y Nueva Zelanda.54​
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        Accordion Item #3
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> #3
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>El 2 de noviembre de 2015, comenzó a publicarse un manga spin-off llamado My Hero Academia Smash!! y escrito por Hirofumi Neda.4​ Una adaptación del manga original al anime comenzó a transmitirse el 3 de abril de 2016.5​ Unas historias extra han sido adaptadas por Anri Takahashi en formato de novela ligera.6​ Además, se han desarrollado dos videojuegos por las empresas Bandai Namco Games y Takara Tomy.7​
+        <strong>El 28 de septiembre de 2019, inmediatamente después de la emisión del episodio 26, se anunció una película de anime titulada Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train (鬼 滅 の 刃 無限 列車 編, Kimetsu no Yaiba: Mugen Ressha-hen), con el personal y el elenco repitiendo sus roles.55​ La película es una secuela directa de la serie de anime y cubre los eventos del arco de la historia de "Mugen Train", capítulos cincuenta y tres al sesenta y nueve del manga. La película se estrenó en Japón el 16 de octubre de 2020.56​ La película es distribuida en Japón por Aniplex y Toho.57​
       </div><!--ACORDION -->
     </div>
   </div>
@@ -269,9 +210,9 @@
 <!-- SECTION2 -->
 <footer class="bg-dark text-white">
 	
-<center>© Derechos reservados Nicole Valdez 14488-2 </center>
+<center>© Derechos reservados Nicole Valdez 14488-2</center>
 
-</footer>-
+</footer>
 </body>
 <script type="js/jquery"></script>
 <script type="js/bootstrap.min.js"></script>
