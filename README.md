@@ -214,6 +214,4 @@ Norma Editorial publicó el primer volumen en español para España el 8 de marz
 
 </footer>
 </body>
-<script type="js/jquery"></script>
-<script type="js/bootstrap.min.js"></script>
-</html>
+<script type="js
